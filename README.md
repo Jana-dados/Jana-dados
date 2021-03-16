@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jana-dados
+- 👀 I’m interested in Learn about Technology and Data
+- 🌱 I’m currently learning Data Sciense, Python and Power BI
